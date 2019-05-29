@@ -1,2 +1,2 @@
 # tannerzinck.com
-a simeple site that lives here: tannerzinck.com
+a simple site that lives here: tannerzinck.com
